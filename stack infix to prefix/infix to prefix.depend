@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471383146 source:d:\acads\kaamka\my_codes\data structures\infix to prefix\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

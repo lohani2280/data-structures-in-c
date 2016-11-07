@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469975296 source:j:\lohani\my codes\stings palindrome using stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

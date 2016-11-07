@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1470261607 source:j:\lohani\my codes\calculating via postfix expression\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1470261788 source:j:\lohani\my codes\data structures\calculating via postfix expression\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1470265388 source:d:\my_codes\data structures\stack calculating via postfix expression\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

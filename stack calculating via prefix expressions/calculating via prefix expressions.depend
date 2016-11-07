@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470340841 source:d:\my_codes\data structures\stack calculating via prefix expressions\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
