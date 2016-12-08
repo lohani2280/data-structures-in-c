@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1472713192 source:d:\my_codes\data structures\binary tree(bft) or level order traversal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1473374626 source:d:\my_codes\data structures\binary tree(bft) or level order traversal(o(n^2))\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1473374752 source:d:\d_drive\my_codes\data structures\binary tree(bft) or level order traversal(o(n^2))\main.c
+	<stdio.h>
+	<stdlib.h>
+
